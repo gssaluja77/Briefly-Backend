@@ -1,1 +1,1 @@
-# Smart Summarizer Chrome Extension Flask Backend
+# Briefly Chrome Extension Flask Backend
